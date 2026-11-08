@@ -82,7 +82,7 @@ Six samples are built in. Five are edge cases that a simple process would get wr
 ## Deploy on Vercel
 
 1. Import this repository in Vercel.
-2. Set **Root Directory** to `site`. Leave the build command empty.
+2. Keep the default settings. `vercel.json` tells Vercel to serve the `site` folder, and `api/read.js` becomes the `/api/read` function.
 3. Deploy.
 
 To enable the AI reader, add an environment variable `GEMINI_API_KEY` in the project settings and redeploy. The key stays on the server and is used by `site/api/read.js`.
@@ -131,6 +131,8 @@ src/                 source code
   api/read.js        serverless function for the built-in Gemini reader
 samples/             the six sample invoices
 site/                built app, the folder Vercel serves
+api/read.js          Vercel entry point for the AI reader function
+vercel.json          tells Vercel to serve site/
 tools/               build script, tests, sample generator, local server
 test-inputs/         extra invoices used for testing
 docs/screenshots/    images for this README
