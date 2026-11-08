@@ -1,5 +1,8 @@
 # Invoice Decision Desk
-Try it now live | [https://invoicedecisiondesk.vercel.app/](https://invoicedecisiondesk.vercel.app/)
+Try it now live 
+
+[https://invoicedecisiondesk.vercel.app/](https://invoicedecisiondesk.vercel.app/)
+
 A web app that reads a vendor invoice and decides whether it should be paid.
 
 Upload an invoice as a PDF or an image. The app reads it, checks it against the company's vendor list, purchase orders, goods receipts and payment history, and returns **approve**, **hold** or **reject**. Every decision shows the reasons, who should act next, and where each number came from on the document.
