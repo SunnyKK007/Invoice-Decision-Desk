@@ -85,7 +85,7 @@ Six samples are built in. Five are edge cases that a simple process would get wr
 2. Keep the default settings. `vercel.json` tells Vercel to serve the `site` folder, and `api/read.js` becomes the `/api/read` function.
 3. Deploy.
 
-To enable the AI reader, add an environment variable `GEMINI_API_KEY` in the project settings and redeploy. The key stays on the server and is used by `site/api/read.js`.
+To enable the AI reader, add an environment variable `GEMINI_API_KEY` in the project settings and redeploy. The key stays on the server and is used by the `/api/read` function (`src/api/read.js`).
 
 How the AI reader behaves once deployed:
 
