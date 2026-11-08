@@ -7,6 +7,7 @@ Upload an invoice as a PDF or an image. The app reads it, checks it against the 
 The company and its data are made up: Harbor & Pine Outdoor Co., with its own vendors, purchase orders, receipts and past payments.
 
 Try It : [https://invoicedecisiondesk.vercel.app/](https://invoicedecisiondesk.vercel.app/) 
+
 ![An approved invoice: the ten-stage pipeline in the middle and the decision on the right](docs/screenshots/01-invoice-approved.png)
 
 
