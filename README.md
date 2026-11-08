@@ -1,7 +1,5 @@
 # Invoice Decision Desk
-Try it now live 
-
-[https://invoicedecisiondesk.vercel.app/](https://invoicedecisiondesk.vercel.app/)
+Try It : [https://invoicedecisiondesk.vercel.app/](https://invoicedecisiondesk.vercel.app/)
 
 A web app that reads a vendor invoice and decides whether it should be paid.
 
