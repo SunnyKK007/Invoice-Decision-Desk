@@ -1,0 +1,15 @@
+Shree Ganesh Traders TAX INVOICE
+Plot 14, MIDC Industrial Area, Pune 411019
+GSTIN: 27AABCS1234F1Z5 | accounts@shreeganeshtraders.in
+Invoice No. Date
+Bill To
+SGT/2026-27/0458 28/10/2026
+Harbor & Pine Outdoor Co.
+Sl Description HSN Qty Rate Amount
+1 Cotton webbing 25 mm 5806 500 42.00 21,000.00
+2 Brass buckles 30 mm 8308 1,000 18.50 18,500.00
+Taxable Value 39,500.00
+IGST 18% 7,110.00
+Grand Total
+46,610.00
+Bank: State Bank of India, A/c ending 7781

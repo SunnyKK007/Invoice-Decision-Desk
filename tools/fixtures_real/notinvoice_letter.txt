@@ -1,0 +1,8 @@
+Dear Hiring Team,
+I am writing to apply for the analyst role advertised on your careers page.
+Over the last two years I have worked on data pipelines and reporting.
+I would welcome the chance to discuss how I can help your team.
+Please find my resume attached for your reference.
+Kind regards,
+Alex Morgan
+alex.morgan@example.com

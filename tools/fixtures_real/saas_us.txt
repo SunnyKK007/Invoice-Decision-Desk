@@ -1,0 +1,12 @@
+Linear Orbit Software Inc.
+Invoice
+Invoice number LOS-0012-0091
+Date of issue October 3, 2026
+Date due November 2, 2026
+Bill to
+Harbor & Pine Outdoor Co.
+Description Qty Unit price Amount
+Team plan seats 25 16.00 400.00
+Subtotal $400.00
+Total $400.00
+Amount due $400.00 USD

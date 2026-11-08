@@ -1,0 +1,28 @@
+NORTHWIND PACKAGING SUPPLY LLC
+4410 SE Johnson Creek Blvd, Milwaukie, OR 97222 | ar@northwindpack.com | (503) 555-0148
+INVOICEBILL TO
+Harbor & Pine Outdoor Co.
+Accounts Payable
+2150 NW Riverside Dr
+Portland, OR 97209
+Invoice No: NW-24-1187
+Invoice Date: October 26, 2026
+PO Number: PO-4500123
+Terms: Net 30
+Due Date: November 25, 2026
+Customer ID: HPO-0042
+SKU Description Qty UoM Unit Price Amount
+BX-181210 Corrugated shipping box 18x12x10 in 2,000 ea 1.42 2,840.00
+TP-48CL Packing tape 48 mm x 100 m, clear 300 rl 3.18 954.00
+VF-PAPER Void fill paper roll 15 in x 1,200 ft 40 rl 27.50 1,100.00
+FRT Freight - LTL delivery to Portland DC 1 ea 85.00 85.00
+Subtotal 4,979.00
+Sales Tax (0%) 0.00
+TOTAL DUE (USD) $4,979.00
+REMIT TO
+Northwind Packaging Supply LLC
+Bank: Columbia Ridge Bank
+Account ending: 4417
+Payment by ACH preferred. Please reference the invoice number.
+Thank you for your business. Questions? ar@northwindpack.com
+
