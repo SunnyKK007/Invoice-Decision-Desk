@@ -8,7 +8,7 @@
 //   GET  /api/read  -> { configured: true|false }   (lets the page know if the reader is on)
 //   POST /api/read  -> { text: "..." }  returns the fields as JSON
 
-const MODEL = process.env.GEMINI_MODEL || "gemini-3.6-flash";
+const MODEL = process.env.GEMINI_MODEL || "gemini-3.5-flash-lite";   // a Lite model: higher free request limits
 const COMPANY = "Harbor & Pine Outdoor Co.";
 const MAX_TEXT = 12000;
 
